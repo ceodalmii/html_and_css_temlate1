@@ -269,7 +269,7 @@ body{
 .services .services-content .image img{
     width: 260px;
 }
-@media (max-width: 1999px){
+@media (max-width: 999px){
     .image-column{
         display: none;
     }
